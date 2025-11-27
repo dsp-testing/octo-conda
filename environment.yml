@@ -38,7 +38,7 @@ dependencies:
   - tornado >=6.0
   - urllib3 >=1.26
   - xarray >=0.19
-  - zarr >=2.8
+  - zarr>=3.1.5
   # Testing
   - flake8 >=3.7
   - moto >=1.3
