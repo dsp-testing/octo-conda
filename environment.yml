@@ -8,7 +8,7 @@ dependencies:
   # Required
   - affine >=2.2
   - click >=8.0
-  - cmocean >=2.0
+  - cmocean>=4.0.3
   - dask >=2021.6
   - dask-image >=0.6
   - distributed >=2021.6
